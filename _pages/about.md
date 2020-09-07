@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 * I am currently a 2nd year Ph.D. student in the [Department of Computer Science and Engineering](https://engineering.tamu.edu/cse/index.html) at [Texas A&M University](https://www.tamu.edu). I am working at the [DATA Lab](http://people.tamu.edu/~guangzhou92/Data_Lab/) under the supervision of [Prof. Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/index.html). 
-* Before joining TAMU, I received my B.S. and M.Eng. degrees in Electrical Engineering and Automation from [Harbin Institute of Technology](http://en.hit.edu.cn/) in 2016 and 2018, respectively. 
+* Before joining TAMU, I spent six wonderful years in [Harbin Institute of Technology](http://en.hit.edu.cn/). I am extremely fortunate to have worked with collaborators Kaisiyuan Wang, Yun Zhu, Hansong Meng, Han Zhang and many more.
 
 * My research interests lie in the general area of data mining and machine learning, particularly in automated machine learning.
 
