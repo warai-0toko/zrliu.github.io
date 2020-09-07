@@ -11,7 +11,7 @@ title                    : "Zirui Liu"
 title_separator          : "-"
 name                     : &name "Zirui Liu"
 description              : &description "PhD student, Department of Computer Science and Engineering, Texas A&M University"
-url                      : https://warai-0toko.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://warai-0toko.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "warai-0toko.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zirui Liu"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "PhD student, Department of Computer Science and Engineering, Texas A&M University"
-  location         : "College Station, Texas"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=0i1w_egAAAAJ&hl"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/warai-0toko"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
