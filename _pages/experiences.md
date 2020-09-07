@@ -7,7 +7,7 @@ author_profile: true
 
 **Texas A&M University, College Station**, Aug. 2019 - Present \\
 -- Ph.D. in Computer Science Department \\
--- DATA Lab, supervision by Prof. [Xia Ben Hu](https://people.engr.tamu.edu/xiahu/index.html) \\
+-- DATA Lab, supervision by Prof. [Xia Ben Hu](https://people.engr.tamu.edu/xiahu/index.html)
 
 **Harbin Insuitute of Technology, Harbin**, Aug. 2016 - Jun. 2018 \\
 -- M.S. in Electrical Engineering and Automation \\
