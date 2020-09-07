@@ -84,37 +84,37 @@ author:
   avatar           : "warai-otoko.jpg"
   bio              : "PhD student, Department of Computer Science and Engineering, Texas A&M University"
   location         : "College Station, Texas"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#  employer         :
+#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=0i1w_egAAAAJ&hl=en"
   email            : "tradigrada@tamu.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+#  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+#  uri              :
+#  bitbucket        :
+#  codepen          :
+#  dribbble         :
+#  flickr           :
+#  facebook         :
+#  foursquare       :
   github           : "warai-0toko"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+#  google_plus      :
+#  keybase          :
+#  instagram        :
+#  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+#  lastfm           :
+  linkedin         : "https://www.linkedin.com/in/zirui-liu-432a531a1/"
+#  orcid            : "http://orcid.org/yourorcidurl"
+#  pinterest        :
+#  soundcloud       :
+#  stackoverflow    : # http://stackoverflow.com/users/123456/username
+#  steam            :
+#  tumblr           :
+#  twitter          : "replacethistwitterhandle"
+#  vine             :
+#  weibo            :
+#  xing             :
+#  youtube          :
+#  wikipedia        :
 
 
 # Reading Files
