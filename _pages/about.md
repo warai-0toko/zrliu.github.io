@@ -17,4 +17,4 @@ redirect_from:
 
 News
 =====
-**Jun. 2020** Have a paper under review at [Neurips 2020](https://nips.cc/Conferences/2020) –a connectionism perspective for analyzing connections in Neural Netowkrs. It has nice therectical properties and some applications on Automated Feature Engineering.
+**Jun. 2020:** Have a paper under review at [Neurips 2020](https://nips.cc/Conferences/2020) –a connectionism perspective for analyzing connections in Neural Networks. It has nice therectical properties and some applications on Automated Feature Engineering.
