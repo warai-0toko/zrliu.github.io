@@ -17,4 +17,8 @@ redirect_from:
 
 News
 =====
-**Jun. 2020:** Have a paper under review at [Neurips 2020](https://nips.cc/Conferences/2020) –a new connectionism perspective for analyzing connections in Neural Networks. It has nice therectical properties and some applications on Automated Feature Engineering.
+**Oct. 2020** A paper about Automated Data Augmentation will come out soon.
+
+**Sep. 2020:** Publish “Detecting Interactions from Neural Networks via Topological Analysis”  @ [Neurips 2020](https://nips.cc/Conferences/2020). –a new interaction detection algorithm from analyzing connections in neural networks. It tries to demystify how DNN learns feature interactions. It has nice therectical properties and some applications on finding useful crossing features.
+
+**Jun. 2020:** Have a paper under review at [Neurips 2020](https://nips.cc/Conferences/2020)
