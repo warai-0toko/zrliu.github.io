@@ -18,4 +18,22 @@ author_profile: true
 ## Preprints
 
 
-<b>[Mitigating Gender Bias in Captioning Systems](https://arxiv.org/abs/2006.08315)</b><br>Ruixiang Tang, Mengnan Du, Yuening Li, <b>Zirui Liu</b> and Xia Hu.
+<b>[Mitigating Gender Bias in Captioning Systems](https://arxiv.org/abs/2006.08315)
+</b><br>Ruixiang Tang, Mengnan Du, Yuening Li, <b>Zirui Liu</b> and Xia Hu.
+
+## 2020
+<b>[AutoRec: An Automated Recommender System](https://dl.acm.org/doi/abs/10.1145/3383313.3411529)
+</b><br>Ting-Hsiang Wang, Xia Hu, Haifeng Jin, Qingquan Song, Xiaotian Han and <b>Zirui Liu</b>. <b>RecSys 2020</b>
+
+<b> Detecting Interactions from Neural Networks via Topological Analysis
+</b><br><b>Zirui Liu</b>, Qingquan Song, Kaixiong Zhou, Ting-Hsiang Wang, Ying Shan and Xia Hu. <b>Neurips 2020</b>
+
+## Paper related to Control Science
+<b>[Motor speed signature analysis for local bearing fault detection with noise cancellation based on improved drive algorithm](https://ieeexplore.ieee.org/abstract/document/8741216/)
+</b><br>Ming Yang, Na Chai, <b>Zirui Liu</b>, Boyang Ren, Dianguo Xu. <b>IEEE Transactions on Industrial Electronics</b>
+
+<b>[An algorithm for online inertia identification and load torque observation via adaptive Kalman observer-recursive least squares](https://www.mdpi.com/1996-1073/11/4/778)
+</b><br>Ming Yang, <b>Zirui Liu</b>, Jiang Long, Wanying Qu, Dianguo Xu
+
+<b>[Speed measurement error reduction via adaptive strong tracking Kalman filters](https://ieeexplore.ieee.org/abstract/document/8080941/)
+</b><br><b>Zirui Liu</b>, Ming Yang, Jiang Long, Dianguo Xu
