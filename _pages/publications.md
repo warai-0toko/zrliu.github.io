@@ -33,7 +33,13 @@ author_profile: true
 </b><br>Ming Yang, Na Chai, <b>Zirui Liu</b>, Boyang Ren, Dianguo Xu. <b>IEEE Transactions on Industrial Electronics</b>
 
 <b>[An algorithm for online inertia identification and load torque observation via adaptive Kalman observer-recursive least squares](https://www.mdpi.com/1996-1073/11/4/778)
-</b><br>Ming Yang, <b>Zirui Liu</b>, Jiang Long, Wanying Qu, Dianguo Xu
+</b><br>Ming Yang, <b>Zirui Liu</b>, Jiang Long, Wanying Qu, Dianguo Xu. <b>Energies</b>
 
 <b>[Speed measurement error reduction via adaptive strong tracking Kalman filters](https://ieeexplore.ieee.org/abstract/document/8080941/)
-</b><br><b>Zirui Liu</b>, Ming Yang, Jiang Long, Dianguo Xu
+</b><br><b>Zirui Liu</b>, Ming Yang, Jiang Long, Dianguo Xu. <b>ITEC Asia-Pacific 2017 </b>
+
+<b>[Current sensorless predictive control based on extended Kalman filter for PMSM drives](https://ieeexplore.ieee.org/abstract/document/8080902/)
+</b><br>Yingqiang Li, Ming Yang, Jiang Long, <b>Zirui Liu</b>, Dianguo Xu. <b>ITEC Asia-Pacific 2017 </b>
+
+<b>[A novel algorithm for on-line inertia identification via adaptive recursive least squares](https://ieeexplore.ieee.org/abstract/document/8216502/)
+</b><br><b>Zirui Liu</b>, Ming Yang, Dianguo Xu. <b>IECON 2017 </b>
