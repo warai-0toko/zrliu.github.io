@@ -23,10 +23,10 @@ News
 =====
 **Nov. 2020:** Have a paper under review at [CVPR2021](http://cvpr2021.thecvf.com/).
 
-**Nov. 2020:** Our Neurips Poster will be presented at 12/10/2020 9:00-11:00 (PST). The Poster Town Name is Neuroscience and Cognitive Science, and the Poster Town ID is 105. I am  I am open to answering research questions and collaboration opportunities.
+**Nov. 2020:** Our Neurips Poster will be presented at 12/10/2020 9:00-11:00 (PST). The Poster Town Name is Neuroscience and Cognitive Science, and the Poster Town ID is 105. I am open to answering research questions and collaboration opportunities.
 
 **Oct. 2020:** A paper about Automated Data Augmentation will come out soon.
 
-**Sep. 2020:** Publish “Detecting Interactions from Neural Networks via Topological Analysis”  @ [Neurips 2020](https://arxiv.org/pdf/2010.13015.pdf). –a new interaction detection algorithm from analyzing connections in neural networks. It tries to demystify how DNN learns feature interactions. It has nice therectical properties and some applications on finding useful crossing features.
+**Sep. 2020:** Publish “Detecting Interactions from Neural Networks via Topological Analysis”  @ [Neurips 2020](https://proceedings.neurips.cc/paper/2020/file/473803f0f2ebd77d83ee60daaa61f381-Paper.pdf). –a new interaction detection algorithm from analyzing connections in neural networks. It tries to demystify how DNN learns feature interactions. It has nice therectical properties and some applications on finding useful crossing features.
 
 **Jun. 2020:** Have a paper under review at [Neurips 2020](https://nips.cc/Conferences/2020)

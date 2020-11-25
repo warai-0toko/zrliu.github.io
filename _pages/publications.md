@@ -25,7 +25,7 @@ author_profile: true
 <b>[AutoRec: An Automated Recommender System](https://dl.acm.org/doi/abs/10.1145/3383313.3411529)
 </b><br>Ting-Hsiang Wang, Xia Hu, Haifeng Jin, Qingquan Song, Xiaotian Han and <b>Zirui Liu</b>. <b>RecSys 2020</b>
 
-<b> Detecting Interactions from Neural Networks via Topological Analysis
+<b> [Towards Interaction Detection Using Topological Analysis on Neural Networks](https://proceedings.neurips.cc/paper/2020/file/473803f0f2ebd77d83ee60daaa61f381-Paper.pdf)
 </b><br><b>Zirui Liu</b>, Qingquan Song, Kaixiong Zhou, Ting-Hsiang Wang, Ying Shan and Xia Hu. <b>Neurips 2020</b>
 
 ## Paper related to Control Science
