@@ -23,7 +23,7 @@ News
 =====
 **Nov. 2021:** Publish  “DivAug: Plug-in Automated Data Augmentation with Explicit Diversity Maximization” @ [ICCV 2021](https://arxiv.org/abs/2103.14545). -A new plug-in automated data augmentation method without requiring the label information and the seperate search process.
 
-**May. 2021:** Thrilled to start my summer internship at Samsung Research America, supervised by [Dr. Li Li](https://scholar.google.com/citations?user=FPcI7HkAAAAJ&hl=en) and [Dr. Rui Chen](https://scholar.google.com/citations?user=ngVttWUAAAAJ&hl=en).
+**May. 2021:** Thrilled to start my summer internship at Samsung Research America Ads AI team, supervised by [Dr. Li Li](https://scholar.google.com/citations?user=FPcI7HkAAAAJ&hl=en) and [Dr. Rui Chen](https://scholar.google.com/citations?user=ngVttWUAAAAJ&hl=en).
 
 **Nov. 2020:** Our Neurips Poster will be presented at 12/10/2020 9:00-11:00 (PST). The Poster Town Name is Neuroscience and Cognitive Science, and the Poster Town ID is 105. I am open to answering research questions and collaboration opportunities.
 
