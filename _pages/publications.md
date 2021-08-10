@@ -15,11 +15,14 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Preprints
 
+## 2021
+
+<b>[DivAug: Plug-in Automated Data Augmentation with Explicit Diversity Maximization](https://arxiv.org/abs/2006.08315)
+</b><br>Ruixiang Tang, Mengnan Du, Yuening Li, <b>Zirui Liu</b> and Xia Hu. <b>WWW 2021</b>
 
 <b>[Mitigating Gender Bias in Captioning Systems](https://arxiv.org/abs/2006.08315)
-</b><br>Ruixiang Tang, Mengnan Du, Yuening Li, <b>Zirui Liu</b> and Xia Hu.
+</b><br>Ruixiang Tang, Mengnan Du, Yuening Li, <b>Zirui Liu</b> and Xia Hu. <b>WWW 2021</b>
 
 ## 2020
 <b>[AutoRec: An Automated Recommender System](https://dl.acm.org/doi/abs/10.1145/3383313.3411529)
