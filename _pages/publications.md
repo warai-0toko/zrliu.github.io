@@ -19,7 +19,7 @@ author_profile: true
 ## 2021
 
 <b>[DivAug: Plug-in Automated Data Augmentation with Explicit Diversity Maximization](https://arxiv.org/abs/2103.14545)
-</b><br><b>Zirui Liu</b>, Haifeng Jin, Ting-Hsiang Wang, Kaixiong Zhou, Xia Hu. <b>ICCV 2021</b>
+</b><br><b>Zirui Liu\*</b>, Haifeng Jin\*, Ting-Hsiang Wang, Kaixiong Zhou, Xia Hu. <b>ICCV 2021</b>
 
 <b>[Mitigating Gender Bias in Captioning Systems](https://arxiv.org/abs/2006.08315)
 </b><br>Ruixiang Tang, Mengnan Du, Yuening Li, <b>Zirui Liu</b> and Xia Hu. <b>WWW 2021</b>
