@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently a 2nd year Ph.D. student in the [Department of Computer Science and Engineering](https://engineering.tamu.edu/cse/index.html) at [Texas A&M University](https://www.tamu.edu). I am working at the [DATA Lab](http://people.tamu.edu/~guangzhou92/Data_Lab/) under the supervision of [Prof. Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/index.html). 
+* I am currently a third year Ph.D. student in the [Department of Computer Science](https://csweb.rice.edu/) at [Rice University](https://www.rice.edu/), advised by [Prof. Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/index.html). 
+Prior to Rice, I was a Ph.D. student in the [Texas A&M University](https://www.tamu.edu). 
 
 * Previously, I spent six wonderful years in [Harbin Institute of Technology](http://en.hit.edu.cn/). 
 I am extremely fortunate to have worked with collaborators Kaisiyuan Wang, Yun Zhu, Hansong Meng, Han Zhang and many more.
 
-* Before joining Computer Sicence Department at TAMU, I studied the control theory, with focus on Kalman Filter and its applications at the low-level control system (motor control).
+* Before joining Computer Sicence Department, I studied the control theory, with the focus on the low-level control system (motor control).
 
 * My research interests lie in the general area of data mining and machine learning, particularly in automated machine learning and efficient machine learning.
 

@@ -5,7 +5,11 @@ permalink: /experiences/
 author_profile: true
 ---
 
-**Texas A&M University, College Station**, Aug. 2019 - Present \\
+**Rice University, Houston**, Aug. 2021 - present \\
+-- Ph.D. in Computer Science Department \\
+-- [DATA](https://cs.rice.edu/~xh37/index.html) Lab, supervision by Prof. [Xia Ben Hu](https://cs.rice.edu/~xh37/index.html)
+
+**Texas A&M University, College Station**, Aug. 2019 - Aug. 2021 \\
 -- Ph.D. in Computer Science Department \\
 -- [DATA](http://people.tamu.edu/~guangzhou92/Data_Lab/) Lab, supervision by Prof. [Xia Ben Hu](https://people.engr.tamu.edu/xiahu/index.html)
 
