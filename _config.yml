@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zirui Liu"
 title_separator          : "-"
 name                     : &name "Zirui Liu"
-description              : &description "PhD student, Department of Computer Science and Engineering, Texas A&M University"
+description              : &description "PhD student, Department of Computer Science, Rice University"
 url                      : https://warai-0toko.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "warai-0toko/warai-0toko.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zirui Liu"
   avatar           : "warai-otoko.jpg"
-  bio              : "PhD student, Department of Computer Science and Engineering, Texas A&M University"
+  bio              : "PhD student, Department of Computer Science, Rice University"
   location         : "College Station, Texas"
 #  employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
