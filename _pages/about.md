@@ -22,6 +22,8 @@ I am extremely fortunate to have worked with collaborators Kaisiyuan Wang, Yun Z
 
 News
 =====
+**Jan. 2022:** Two papers accepted to ICLR 2022: [EXACT](https://openreview.net/forum?id=vkaMaq95_rX) and [instance-dependent label noise](https://openreview.net/pdf?id=ecH2FKaARUp).
+
 **Nov. 2021:** Publish  “DivAug: Plug-in Automated Data Augmentation with Explicit Diversity Maximization” @ [ICCV 2021](https://arxiv.org/abs/2103.14545). -A new plug-in automated data augmentation method without requiring the label information and the seperate search process.
 
 **May. 2021:** Thrilled to start my summer internship at Samsung Research America Ads AI team, supervised by [Dr. Li Li](https://scholar.google.com/citations?user=FPcI7HkAAAAJ&hl=en) and [Dr. Rui Chen](https://scholar.google.com/citations?user=ngVttWUAAAAJ&hl=en).
