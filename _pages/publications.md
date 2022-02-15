@@ -15,6 +15,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+## 2022
+<b>[EXACT: Scalable Graph Neural Networks Training via Extreme Activation Compression](https://openreview.net/pdf?id=vkaMaq95_rX)
+</b><br><b>Zirui Liu\</b>, Kaixiong Zhou, Yang Fan, Li Li, Rui Chen, Xia Hu. <b>ICLR 2022</b>
+
+<b>[An Information Fusion Approach to Learning with Instance-Dependent Label Noise](https://openreview.net/pdf?id=ecH2FKaARUp)
+</b><br>Zhimeng Jiang, Kaixiong Zhou, <b>Zirui Liu</b>, Li Li, Rui Chen, Soo-Hyun Choi, Xia Hu. <b>ICLR 2022</b>
 
 ## 2021
 
