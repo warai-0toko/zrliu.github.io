@@ -16,16 +16,16 @@ author_profile: true
 {% endfor %}
 
 ## 2022
-<b>[EXACT: Scalable Graph Neural Networks Training via Extreme Activation Compression](https://openreview.net/pdf?id=vkaMaq95_rX)
-</b><br><b>Zirui Liu\</b>, Kaixiong Zhou, Yang Fan, Li Li, Rui Chen, Xia Hu. <b>ICLR 2022</b>
+<b>[EXACT: Scalable Graph Neural Networks Training via Extreme Activation Compression](https://openreview.net/pdf?id=vkaMaq95_rX)</b>
+<br><b>Zirui Liu</b>, Kaixiong Zhou, Yang Fan, Li Li, Rui Chen, Xia Hu. <b>ICLR 2022</b>
 
 <b>[An Information Fusion Approach to Learning with Instance-Dependent Label Noise](https://openreview.net/pdf?id=ecH2FKaARUp)
 </b><br>Zhimeng Jiang, Kaixiong Zhou, <b>Zirui Liu</b>, Li Li, Rui Chen, Soo-Hyun Choi, Xia Hu. <b>ICLR 2022</b>
 
 ## 2021
 
-<b>[DivAug: Plug-in Automated Data Augmentation with Explicit Diversity Maximization](https://arxiv.org/abs/2103.14545)
-</b><br><b>Zirui Liu\*</b>, Haifeng Jin\*, Ting-Hsiang Wang, Kaixiong Zhou, Xia Hu. <b>ICCV 2021</b>
+<b>[DivAug: Plug-in Automated Data Augmentation with Explicit Diversity Maximization](https://arxiv.org/abs/2103.14545)</b>
+<br><b>Zirui Liu\*</b>, Haifeng Jin\*, Ting-Hsiang Wang, Kaixiong Zhou, Xia Hu. <b>ICCV 2021</b>
 
 <b>[Mitigating Gender Bias in Captioning Systems](https://arxiv.org/abs/2006.08315)
 </b><br>Ruixiang Tang, Mengnan Du, Yuening Li, <b>Zirui Liu</b> and Xia Hu. <b>WWW 2021</b>
