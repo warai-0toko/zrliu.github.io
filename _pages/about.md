@@ -22,6 +22,10 @@ I am extremely fortunate to have worked with collaborators Kaisiyuan Wang, Yun Z
 
 News
 =====
+
+**Seq. 2022:** Two papers accepted to Neurips 2022, DreamShard and GNN Benchmark (Benchmark track).
+
+
 **Jan. 2022:** Two papers accepted to ICLR 2022: [EXACT](https://openreview.net/forum?id=vkaMaq95_rX) and [instance-dependent label noise](https://openreview.net/pdf?id=ecH2FKaARUp).
 
 **Nov. 2021:** Publish  “DivAug: Plug-in Automated Data Augmentation with Explicit Diversity Maximization” @ [ICCV 2021](https://arxiv.org/abs/2103.14545). -A new plug-in automated data augmentation method without requiring the label information and the seperate search process.

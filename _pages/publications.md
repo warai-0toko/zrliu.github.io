@@ -16,6 +16,13 @@ author_profile: true
 {% endfor %}
 
 ## 2022
+<b>[DreamShard: Generalizable Embedding Table Placement for Recommender Systems]()</b>
+</b><br> Daochen Zha, Louis Feng, Qiaoyu Tan, <b>Zirui Liu</b>, Kwei-Herng Lai, Bhargav Bhushanam, Yuandong Tian, Arun Kejariwal, Xia Hu <b>Neurips 2022</b>
+
+<b>[A Comprehensive Study on Large-Scale Graph Training: Benchmarking and Rethinking](https://openreview.net/forum?id=2QrFr_U782Z)</b>
+</b><br>Keyu Duan, <b>Zirui Liu</b>, Peihao Wang, Wenqing Zheng, Kaixiong Zhou, Tianlong Chen, Xia Hu, Zhangyang Wang. <b>NeurIPS 2022 Datasets and Benchmarks</b>
+
+
 <b>[EXACT: Scalable Graph Neural Networks Training via Extreme Activation Compression](https://openreview.net/pdf?id=vkaMaq95_rX)</b>
 <br><b>Zirui Liu</b>, Kaixiong Zhou, Yang Fan, Li Li, Rui Chen, Xia Hu. <b>ICLR 2022</b>
 
