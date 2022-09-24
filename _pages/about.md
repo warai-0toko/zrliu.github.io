@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently a third year Ph.D. student in the [Department of Computer Science](https://csweb.rice.edu/) at [Rice University](https://www.rice.edu/), advised by [Prof. Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/index.html). 
+* I am currently a fourth year Ph.D. student in the [Department of Computer Science](https://csweb.rice.edu/) at [Rice University](https://www.rice.edu/), advised by [Prof. Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/index.html). 
 Prior to Rice, I was a Ph.D. student in the [Texas A&M University](https://www.tamu.edu). 
 
 * Previously, I spent six wonderful years in [Harbin Institute of Technology](http://en.hit.edu.cn/). 
@@ -23,7 +23,7 @@ I am extremely fortunate to have worked with collaborators Kaisiyuan Wang, Yun Z
 News
 =====
 
-**Seq. 2022:** Two papers accepted to Neurips 2022, DreamShard and GNN Benchmark (Benchmark track).
+**Sep. 2022:** Two papers accepted to Neurips 2022, DreamShard and GNN Benchmark (Benchmark track).
 
 
 **Jan. 2022:** Two papers accepted to ICLR 2022: [EXACT](https://openreview.net/forum?id=vkaMaq95_rX) and [instance-dependent label noise](https://openreview.net/pdf?id=ecH2FKaARUp).

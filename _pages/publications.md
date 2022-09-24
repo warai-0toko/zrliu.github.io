@@ -16,10 +16,10 @@ author_profile: true
 {% endfor %}
 
 ## 2022
-<b>[DreamShard: Generalizable Embedding Table Placement for Recommender Systems]()</b>
+<b>[DreamShard: Generalizable Embedding Table Placement for Recommender Systems]()
 </b><br> Daochen Zha, Louis Feng, Qiaoyu Tan, <b>Zirui Liu</b>, Kwei-Herng Lai, Bhargav Bhushanam, Yuandong Tian, Arun Kejariwal, Xia Hu <b>Neurips 2022</b>
 
-<b>[A Comprehensive Study on Large-Scale Graph Training: Benchmarking and Rethinking](https://openreview.net/forum?id=2QrFr_U782Z)</b>
+<b>[A Comprehensive Study on Large-Scale Graph Training: Benchmarking and Rethinking](https://openreview.net/forum?id=2QrFr_U782Z)
 </b><br>Keyu Duan, <b>Zirui Liu</b>, Peihao Wang, Wenqing Zheng, Kaixiong Zhou, Tianlong Chen, Xia Hu, Zhangyang Wang. <b>NeurIPS 2022 Datasets and Benchmarks</b>
 
 
@@ -39,7 +39,7 @@ author_profile: true
 
 ## 2020
 <b>[AutoRec: An Automated Recommender System](https://dl.acm.org/doi/abs/10.1145/3383313.3411529)
-</b><br>Ting-Hsiang Wang, Xia Hu, Haifeng Jin, Qingquan Song, Xiaotian Han and <b>Zirui Liu</b>. <b>RecSys 2020</b>
+</b><br>Ting-Hsiang Wang, Xia Hu, Haifeng Jin, Qingquan Song, Xiaotian Han, <b>Zirui Liu</b>, and Xia Hu. <b>RecSys 2020</b>
 
 <b> [Towards Interaction Detection Using Topological Analysis on Neural Networks](https://proceedings.neurips.cc/paper/2020/file/473803f0f2ebd77d83ee60daaa61f381-Paper.pdf)
 </b><br><b>Zirui Liu</b>, Qingquan Song, Kaixiong Zhou, Ting-Hsiang Wang, Ying Shan and Xia Hu. <b>Neurips 2020</b>
