@@ -15,6 +15,16 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+## 2023
+<b>[RSC: Accelerating Graph Neural Networks Training via Randomized Sparse Computations](https://arxiv.org/abs/2210.10737)</b>
+<br><b>Zirui Liu</b>, Shengyuan Chen, Kaixiong Zhou, Daochen Zha, Xiao Huang, Xia Hu <b>ICML 2023</b>
+
+<b>[DIVISION: Memory Efficient Training via Dual Activation Precision](https://arxiv.org/abs/2208.04187)</b>
+<br>Guanchu Wang, <b>Zirui Liu</b>, Zhimeng Jiang, Ninghao Liu, Na Zou, Xia Hu <b>ICML 2023</b>
+
+<b>[Pre-train and Search: Efficient Embedding Table Sharding with Pre-trained Neural Cost Models]()
+</b><br> Daochen Zha, Louis Feng, Liang Luo, Bhargav Bhushanam, <b>Zirui Liu</b>, Yusuo Hu, Jade Nie, Yuzhen Huang, Yuandong Tian, Arun Kejariwal, Xia Hu <b>MLSys 2023</b>
+
 ## 2022
 <b>[DreamShard: Generalizable Embedding Table Placement for Recommender Systems]()
 </b><br> Daochen Zha, Louis Feng, Qiaoyu Tan, <b>Zirui Liu</b>, Kwei-Herng Lai, Bhargav Bhushanam, Yuandong Tian, Arun Kejariwal, Xia Hu <b>Neurips 2022</b>

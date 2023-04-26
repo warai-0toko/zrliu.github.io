@@ -22,6 +22,9 @@ I am extremely fortunate to have worked with collaborators Kaisiyuan Wang, Yun Z
 
 News
 =====
+**April. 2023:** Twos papers accepted to ICML 2023.
+
+**Feb. 2023:** One paper accepted to MLSys 2023.
 
 **Sep. 2022:** Two papers accepted to Neurips 2022, DreamShard and GNN Benchmark (Benchmark track).
 
