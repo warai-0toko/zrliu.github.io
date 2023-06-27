@@ -22,6 +22,8 @@ I am extremely fortunate to have worked with collaborators Kaisiyuan Wang, Yun Z
 
 News
 =====
+**Jun. 2023:** One paper accepted to TMLR.
+
 **April. 2023:** Twos papers accepted to ICML 2023.
 
 **Feb. 2023:** One paper accepted to MLSys 2023.

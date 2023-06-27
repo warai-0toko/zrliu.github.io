@@ -15,7 +15,17 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+
 ## 2023
+<b>[Editable Graph Neural Network for Node Classifications](https://arxiv.org/abs/2305.15529)</b>
+<br><b>Zirui Liu</b>, Zhimeng Jiang, Shaochen Zhong, Kaixiong Zhou, Li Li, Rui Chen, Soo-Hyun Choi, Xia Hu <b>MLG Workshop @ KDD</b>
+
+<b>[DSpar: Embarrassingly Simple Strategy for Efficient GNN training and inference via Degree-based Sparsification](https://openreview.net/forum?id=SaVEXFuozg&referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR))</b>
+<br><b>Zirui Liu</b>, Kaixiong Zhou, Zhimeng Jiang, Li Li, Rui Chen, Soo-Hyun Choi, and Xia Hu <b>TMLR</b>
+
+<b>[PME: Pruning-based Multi-size Embedding for Recommender Systems.](https://www.frontiersin.org/articles/10.3389/fdata.2023.1195742/full)</b>
+<br><b>Zirui Liu</b>, , Qingquan Song, Li Li, Soo-Hyun Choi, Rui Chen, and Xia Hu. <b>Frontier in Big Data</b>
+
 <b>[RSC: Accelerating Graph Neural Networks Training via Randomized Sparse Computations](https://arxiv.org/abs/2210.10737)</b>
 <br><b>Zirui Liu</b>, Shengyuan Chen, Kaixiong Zhou, Daochen Zha, Xiao Huang, Xia Hu <b>ICML 2023</b>
 
