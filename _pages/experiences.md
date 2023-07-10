@@ -9,9 +9,9 @@ author_profile: true
 -- Ph.D. in Computer Science Department \\
 -- [DATA](https://cs.rice.edu/~xh37/index.html) Lab, supervision by Prof. [Xia Ben Hu](https://cs.rice.edu/~xh37/index.html)
 
-**Texas A&M University, College Station**, Aug. 2019 - Aug. 2021 \\
+**Texas A&M University, College Station** (Transfer Out), Aug. 2019 - Aug. 2021 \\
 -- Ph.D. in Computer Science Department \\
--- [DATA](http://people.tamu.edu/~guangzhou92/Data_Lab/) Lab, supervision by Prof. [Xia Ben Hu](https://people.engr.tamu.edu/xiahu/index.html)
+-- [DATA](https://cs.rice.edu/~xh37/index.html) Lab, supervision by Prof. [Xia Ben Hu](https://people.engr.tamu.edu/xiahu/index.html)
 
 **Harbin Insuitute of Technology, Harbin**, Aug. 2016 - Jun. 2018 \\
 -- M.Eng. in Electrical Engineering and Automation
