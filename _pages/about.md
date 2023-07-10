@@ -8,15 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently a fourth year Ph.D. student in the [Department of Computer Science](https://csweb.rice.edu/) at [Rice University](https://www.rice.edu/), advised by [Prof. Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/index.html). 
-Prior to Rice, I was a Ph.D. student in the [Texas A&M University](https://www.tamu.edu). 
+I am a fifth year Ph.D. student in the [Department of Computer Science](https://csweb.rice.edu/) at [Rice University](https://www.rice.edu/), advised by [Prof. Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/index.html). Previously, I spent six wonderful years in [Harbin Institute of Technology](http://en.hit.edu.cn/). 
 
-* Previously, I spent six wonderful years in [Harbin Institute of Technology](http://en.hit.edu.cn/). 
-I am extremely fortunate to have worked with collaborators Kaisiyuan Wang, Yun Zhu, Hansong Meng, Han Zhang and many more.
-
-* Before joining Computer Sicence Department, I studied the control theory, with the focus on the low-level control system (motor control).
-
-* My research interests lie in the general area of data mining and machine learning, particularly in automated machine learning and efficient machine learning.
+My research interests lie in the general area of data mining and machine learning, particularly in large scale machine learning.
 
 <br />
 
