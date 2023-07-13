@@ -30,7 +30,7 @@ author_profile: true
 <br><b>Zirui Liu</b>, Kaixiong Zhou, Zhimeng Jiang, Li Li, Rui Chen, Soo-Hyun Choi, and Xia Hu <b>TMLR</b>
 
 <b>[Retiring ∆DP: New Distribution-Level Metrics for Demographic Parity.](https://openreview.net/forum?id=LjDFIWWVVa&referrer=%5BAuthor%20Console%5D)</b>
-Xiaotian Han*, Zhimeng Jiang*, Hongye Jin*, <br><b>Zirui Liu</b>, Na Zou, Qifan Wang, Xia Hu<b>TMLR</b>
+Xiaotian Han\*, Zhimeng Jiang\*, Hongye Jin\*, <br><b>Zirui Liu</b>, Na Zou, Qifan Wang, Xia Hu <b>TMLR</b>
 
 <b>[PME: Pruning-based Multi-size Embedding for Recommender Systems.](https://www.frontiersin.org/articles/10.3389/fdata.2023.1195742/full)</b>
 <br><b>Zirui Liu</b>, , Qingquan Song, Li Li, Soo-Hyun Choi, Rui Chen, and Xia Hu. <b>Frontier in Big Data</b>
