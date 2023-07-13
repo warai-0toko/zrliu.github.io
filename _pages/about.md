@@ -16,7 +16,7 @@ My research interests lie in the general area of data mining and machine learnin
 
 News
 =====
-**Jun. 2023:** One paper accepted to TMLR.
+**Jun. 2023:** Two paper accepted to TMLR.
 
 **April. 2023:** Twos papers accepted to ICML 2023.
 

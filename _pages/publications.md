@@ -15,6 +15,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+## Preprint
+<b>[Winner-Take-All Column Row Sampling for Memory Efficient Adaptation of Language Model](https://arxiv.org/pdf/2305.15265.pdf)</b>
+<br><b>Zirui Liu*</b>, Guanchu Wang*, Shaochen Zhong, Zhaozhuo Xu, Daochen Zha, Ruixiang Tang, Zhimeng Jiang, Kaixiong Zhou, Vipin Chaudhary, Shuai Xu, Xia Hu
+
+<b>[Compress, Then Prompt: Improving Accuracy-Efficiency Trade-off of LLM Inference with Transferable Prompt](https://arxiv.org/pdf/2305.11186.pdf)</b>
+Zhaozhuo Xu*, <br><b>Zirui Liu*</b>, Beidi Chen, Yuxin Tang, Jue Wang, Kaixiong Zhou, Xia Hu, Anshumali Shrivastava
 
 ## 2023
 <b>[Editable Graph Neural Network for Node Classifications](https://arxiv.org/abs/2305.15529)</b>
@@ -22,6 +28,9 @@ author_profile: true
 
 <b>[DSpar: Embarrassingly Simple Strategy for Efficient GNN training and inference via Degree-based Sparsification](https://openreview.net/forum?id=SaVEXFuozg&referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR))</b>
 <br><b>Zirui Liu</b>, Kaixiong Zhou, Zhimeng Jiang, Li Li, Rui Chen, Soo-Hyun Choi, and Xia Hu <b>TMLR</b>
+
+<b>[Retiring ∆DP: New Distribution-Level Metrics for Demographic Parity.](https://openreview.net/forum?id=LjDFIWWVVa&referrer=%5BAuthor%20Console%5D)</b>
+Xiaotian Han*, Zhimeng Jiang*, Hongye Jin*, <br><b>Zirui Liu</b>, Na Zou, Qifan Wang, Xia Hu<b>TMLR</b>
 
 <b>[PME: Pruning-based Multi-size Embedding for Recommender Systems.](https://www.frontiersin.org/articles/10.3389/fdata.2023.1195742/full)</b>
 <br><b>Zirui Liu</b>, , Qingquan Song, Li Li, Soo-Hyun Choi, Rui Chen, and Xia Hu. <b>Frontier in Big Data</b>
