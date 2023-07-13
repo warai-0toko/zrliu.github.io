@@ -17,10 +17,10 @@ author_profile: true
 
 ## Preprint
 <b>[Winner-Take-All Column Row Sampling for Memory Efficient Adaptation of Language Model](https://arxiv.org/pdf/2305.15265.pdf)</b>
-<br><b>Zirui Liu*</b>, Guanchu Wang*, Shaochen Zhong, Zhaozhuo Xu, Daochen Zha, Ruixiang Tang, Zhimeng Jiang, Kaixiong Zhou, Vipin Chaudhary, Shuai Xu, Xia Hu
+<br><b>Zirui Liu\*</b>, Guanchu Wang\*, Shaochen Zhong, Zhaozhuo Xu, Daochen Zha, Ruixiang Tang, Zhimeng Jiang, Kaixiong Zhou, Vipin Chaudhary, Shuai Xu, Xia Hu
 
 <b>[Compress, Then Prompt: Improving Accuracy-Efficiency Trade-off of LLM Inference with Transferable Prompt](https://arxiv.org/pdf/2305.11186.pdf)</b>
-Zhaozhuo Xu*, <br><b>Zirui Liu*</b>, Beidi Chen, Yuxin Tang, Jue Wang, Kaixiong Zhou, Xia Hu, Anshumali Shrivastava
+<br><b>Zirui Liu\*</b>, Zhaozhuo Xu\*, Beidi Chen, Yuxin Tang, Jue Wang, Kaixiong Zhou, Xia Hu, Anshumali Shrivastava
 
 ## 2023
 <b>[Editable Graph Neural Network for Node Classifications](https://arxiv.org/abs/2305.15529)</b>
