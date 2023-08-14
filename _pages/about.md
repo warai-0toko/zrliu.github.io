@@ -10,7 +10,7 @@ redirect_from:
 
 I am a fifth year Ph.D. student in the [Department of Computer Science](https://csweb.rice.edu/) at [Rice University](https://www.rice.edu/), advised by [Prof. Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/index.html). Previously, I spent six wonderful years in [Harbin Institute of Technology](http://en.hit.edu.cn/). 
 
-My research interests lie in the large scale machine learning and data mining. Specifically, I develop randomized numerical linear algebra ([RandNLA](https://arxiv.org/pdf/2302.11474.pdf)) algorithm and build systems to support them, aiming to scale-up and/or accerlate machine learning models.
+My research interests lie in the large scale machine learning and data mining. Specifically, I develop randomized numerical linear algebra algorithm (e.g., [randomized matrix mulplication](https://arxiv.org/abs/2305.15265)) and build systems to support them, aiming to scale-up and/or accerlate machine learning models.
 
 <br />
 
